@@ -1,0 +1,619 @@
+#hospimg
+{
+
+    z-index:-1;
+    width: 1540px;
+    height: 555px;
+    position:relative;
+    bottom:213px;
+}
+.phone
+{
+    color: black;
+}
+.headerdown
+{
+    
+    position: relative;
+    left: 25px;
+    top: 75px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 750;
+    color: black;
+  
+    
+}
+#headerdown1
+{
+    position: relative;
+    top: 83px;
+    font-size: 25px;
+    
+}
+#headerdown2
+{
+    position: relative;
+    top: 30px;
+    left: 39px;
+    font-size: 25px;
+}
+#headerdown3
+{
+    position: relative;
+   bottom: 23.5px;
+    left: 155px;
+    font-size: 25px;
+}
+#bcgimg1h
+{
+    position: relative;
+    bottom: 175px;
+}
+#header1{
+   color: grey;
+  
+   margin-bottom: 15px green;
+}
+#headerside
+{
+    position: relative;
+    left: 900px;
+    bottom:30px;
+    color: grey;  
+}
+.button1{
+    color: white;
+background-color: darkblue;
+padding: 8px;
+font-family: cursive;
+}
+#imgusa{
+    display: inline;
+    position: relative;
+    top: 19px;
+    width: 125px;
+    height: 100px;
+}
+#bcgimg1h
+{
+    background-image: url("images/header\ bckground\ image.jpg");
+    background-size:cover;
+    height: 525px;
+    width: 100%;
+    position: relative;
+    top: 10px;
+    opacity: 75%;
+}
+.sideheader{
+    display: inline;
+    position: relative;
+    left: 40%;
+    bottom: 9%;
+}
+#centerh{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    position: relative;
+    left: 5%;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+#centerb{
+    
+    position: relative;
+    left: 5%;
+    width: 35%;
+    column-count: 1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+#buttonside1
+{
+    float: right;
+    display: block;
+    position: relative;
+    right: 205px;
+    bottom: 250px;
+     margin: 4px;
+}
+#buttonside2
+{
+    float: right;
+    display: block;
+    position: relative;
+    right: 95px;
+    bottom: 200px;
+     margin: 4px;
+}
+#buttonside3
+{
+    float: right;
+    display: block;
+    position: relative;
+    left: 35px;
+    bottom: 150px;
+     margin: 4px;
+}
+.centerh1
+{ position: relative;
+    left: 5%;
+    width: 35%;
+    column-count: 1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+#ch2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    position: relative;
+    left: 5%;
+    bottom: 25px;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+.secpage
+{
+    text-align: center;
+}
+#secpgh
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline;
+    text-align: center;
+    
+}
+.secpage,.column
+{
+    position: relative;
+    top: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    column-count: 3;
+    background-color: linen;
+}
+.center
+{
+    height: 430px;
+    font-family: sofia-pro,Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    
+}
+.center >h4{
+    text-decoration: underline;
+    font-size: 28px;
+}
+.center2{
+	background-color: linen;
+	height: 400px;
+    padding-right:  10%;
+    font-family: sofia-pro,Helvetica,Arial,sans-serif;
+    font-size: 15px;
+}
+.center2>h4
+{
+    text-decoration: underline;
+    font-size: 18px;
+}
+#imgburn
+{
+    position: relative;
+    top: 19px;
+}
+.center3
+{
+    height: 400px;
+    font-family: sofia-pro,Helvetica,Arial,sans-serif;
+    font-size: 15px;
+}
+.center3>h4
+{
+    text-decoration: underline;
+    font-size: 20px;
+
+}
+.units
+{
+    
+    padding-left: 150px;
+    width: 75%;
+    font: 15px;
+}
+.units>p
+{
+    font-size: 25px;
+}
+.units>h4
+{
+    text-decoration: underline;
+    font-size: 20px;
+}
+.sidebysidediv
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 55%;
+    position: relative;
+    bottom: 25%;
+    
+    padding-left: 95px;
+}
+.bkgimg
+{
+    
+    column-count: 3;
+    text-align: center;
+}
+.bkgm1
+{   background-image: url("images/bkg1.jpg");
+    background-repeat: no-repeat;
+    width: 503px;
+    height: 555px;
+    position: relative;
+    bottom: 19px;
+}
+.bkgm2
+{
+    background-image: url("images/Education_and_Research.jpg");
+    background-repeat: no-repeat;
+    width: 503px;
+    height: 555px;
+}
+.bkgimg3
+{
+    background-image: url("images/Clinical-Trials.jpg");
+    background-repeat: no-repeat;
+    width: 503px;
+    height: 555px;
+}
+#bkgmb
+{
+    text-align: center;
+    position: relative;
+
+}
+
+
+.info{
+	padding-top: 3%;
+	padding-right: 30%;
+	padding-left: 30%;
+    padding-bottom: 3%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.info h4{
+    color:blue
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+    margin-bottom: 5%;
+}
+.info article{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+	color:blue
+	margin-bottom: 5%;
+	letter-spacing: 1px;
+}
+.info ul li{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+	position: relative;
+	left:17px;
+	color:#696969;
+	padding-bottom: 10px;
+}
+.anchor{
+	background-color:#6610f2;
+    color:#fff;
+    letter-spacing: 2px;
+    font-size: 150%;
+    text-align: center;
+    font-size: 100%;
+}
+.directions{
+	padding-top: 6%;
+	background: #F8F8FF;
+	padding-bottom: 3%;
+	padding-left: 70px;
+}
+.directions h4{
+	color: #696969;
+	margin-bottom: 4%;
+}
+.directions p{
+	color: #696969;
+	margin-bottom: 4%;
+}
+.directions .col-md-6 a{
+	color: #696969;
+}
+.directions .col-md-6{
+	padding: 5%;
+}
+.gap{
+	margin-bottom: 3%;
+	color: #696969;
+}
+.middle{
+	padding-top:6%;
+	padding-right: 20%;
+	padding-left: 20%; 
+}
+.middle a{
+	background-color:#6610f2;
+    color:rgb(0, 0, 0);
+    letter-spacing: 2px;
+    font-size: 150%;
+    text-align: center;
+    font-size: 100%;
+}
+.middle h4{
+	color:black;
+	margin-bottom:3%; 
+}
+.middle p{
+	color:slategrey;
+	margin-bottom:3%; 
+}
+.clock p{
+	color: black;
+}
+
+.clock>.container>#row
+{
+    column-count: 3;
+    column-gap: 3px;
+    column-width: 299px;
+}
+.clock>.container>#colounvh
+{
+    text-align: center;
+}
+.cstory{
+   height:60vh;
+   width:100%;
+   background-image: url("images/Patient-Story-Pete-Jones-Finds-Something-Positive1.jpg");
+   background-size: cover;
+   background-position: top;
+   color: #fff;
+   
+} 
+.couple h4{
+	margin-bottom: 4%;
+}
+.couple p{
+	margin-bottom: 6%;
+}
+.couple  a{
+	background-color:  #fff ;
+    color: #6610f2;
+    letter-spacing: 2px;
+    font-size: 150%;
+    text-align: center;
+    font-size: 150%;
+}
+
+
+.box-contain{
+    position: relative;
+    left: 95px;
+    top: 25px;
+    text-align: center;
+    column-count: 2;
+    width: 1025px;
+    
+}
+.box-contain > a{
+   font-weight:400;
+ margin-left: 2%;
+   font-size:1.5em; 
+   background-color:transparent;
+ position: relative;
+ right: 11.5%;
+}
+.box-contain > a:hover{
+   border:1px solid #6610f2;
+}
+.box-contain .box1{
+   box-shadow: 0 2px 70px 0 rgba(111,130,208, .18);
+   margin-top: 20px;
+   margin-bottom: 20px;
+   padding-bottom: 16px;
+}    
+
+.box1 p{
+     margin-top: 4%;
+   color: #696969;
+   margin-left: 4%;
+   margin-right: 4%;
+}
+.box1 h5{
+   margin-top: 4%;
+   color: #696969;
+   margin-left: 4%;
+   margin-right: 4%;
+}
+.adjust a{
+     font-size: 0.7em;
+}
+.butn{
+     background-color:#6610f2;
+   color:#fff;
+   letter-spacing: 2px;
+   font-size: 150%;
+   text-align: center;
+   font-size: 150%;
+}
+.box2{
+   box-shadow: 0 2px 70px 0 rgba(111,130,208, .18);
+   margin-top: 20px;
+   margin-bottom: 20px;
+   padding-top: 4%;
+   padding-bottom: 4%;
+   padding-left: 7%;
+   padding-right: 4%;
+   width: 120%;
+}	
+
+.box2 p{
+     margin-top: 4%;
+   color: #696969;
+}
+.events-a{
+   margin-right: 5%;
+   margin-bottom: 10%;
+}
+.events-a h1,article{
+   color: #696969;
+} 
+.box-bot{
+   height:40vh;
+   width:100%;
+   background-image: url(images/header\ bckground\ image.jpg);
+   background-size: cover;
+   background-position: center;
+   color: #fff;
+   color: black;
+   background-color: blue;
+  
+} 
+.box-last>.container>.row>.end-effects
+{
+    width: 555px;
+    height: 555px;
+}
+
+
+.copy a{
+   color:#fff;
+   float: right;
+   margin-right: 1%;
+   position: relative;
+   bottom: 38px;
+   font-size: 0.9em;
+   
+}
+.directions>.container{
+    column-count: 2;
+}
+.box-last>.container>.row>.col-md-6
+{
+    column-count: 3;
+    column-gap: 10px;
+    width: 25%;
+    position: relative;
+    left: 825px;
+    bottom: 525px;
+}
+.box-last>.container>.row>.end-effects>#footerlogo
+{
+    color: black;
+    width: 225px;
+}
+#mainfooter
+{
+    background-color: darkblue;
+    height: 75%;
+}
+.bkgf
+{
+    background-image: url("images/header\ bckground\ image.jpg");
+    background-size:cover;
+    height: 525px;
+    width: 100%;
+   background-color: darkblue;
+    content: "";
+    opacity:.75;
+    z-index: 0;
+    color: white;
+}
+.bkgf>.bkgfb
+{
+    text-align: center;
+   position: relative;
+   top: 225px;
+   font-weight: 400;
+}
+#mainfooter
+{
+    font-weight: 1500;
+}
+#femail,#footertxt
+{
+    font-size: 15px;
+}
+#flinks
+{
+    color: blue;
+ 
+    
+}
+.button2
+{
+    background-color: darkblue;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    padding: 5px;
+}
+#buttonsu
+{
+    background-color:linen;
+    font-family:'Times New Roman', Times, serif;
+    color: blue;
+    padding: 8px;
+}
+.fa123
+{
+    font-size: 35px;
+    position: relative;
+    bottom: 75px;
+    border-bottom: 3px dashed black;
+}
+
+#footerlogo
+{
+    width: 100%;
+    position: relative;
+  top: 19px;
+}
+#footertxt
+{
+    position: relative;
+    top: 25px;
+    width: 1525px;
+    font-size: 20px;
+}
+#femail,#buttonsu
+{
+    font-size: 21px;
+    position: relative;
+    top: 10px;
+}
+.columnf
+{
+    column-count: 3;
+    position: relative;
+    left: 1025px;
+    bottom: 95px;
+    width: 25%;
+}
+.copyr{
+    font-size: 15px;
+    position: relative;
+    
+}
+.copyr >p
+{
+    position: relative;
+    bottom: 13px;
+}
+#sidef
+{
+    position: relative;
+    left:535px ;
+    bottom: 45px;
+}
+.usaarl>#usaarlp
+{
+    float:right;
+}
